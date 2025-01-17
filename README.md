@@ -67,6 +67,15 @@ CapCut Pro is a free, feature-rich video editing app that provides:
 
 </div>
 
+<div align="center">
+
+
+
+
+
+
+
+
 ### Step 1: Import Your Media  
 - Open the app and select videos or images from your gallery.  
 
