@@ -18,8 +18,18 @@ CapCut Pro is a free, feature-rich video editing app that provides:
 - **User-Friendly Interface**: Perfect for both beginners and experts.  
 
 ---
+<div align="center">
 
-###  Features  
+  ### Features
+
+</div>
+
+<div align="center">
+
+  <a href="https://rb.gy/im9t1t"><img src="https://github.com/Crazyboy678/Capcut-Pro-Apk-Downlod/blob/2b253661452dfe0e27c81763fb9cdec064f10701/Screenshots/Capcut%20Pro%20Apk%20(1).png" alt="fsgd" /></a>
+
+</div>
+
 - **Trendy Effects and Filters**: Keep your videos up-to-date with the latest effects.  
 - **Unlimited Layers**: Add multiple video, audio, and text layers.  
 - **Fast Processing**: Enjoy smooth rendering and exporting.  
